@@ -1,0 +1,40 @@
+{
+    "Denis": {
+        "phones": [
+            "0989876543"
+        ],
+        "birthday": "01.03.1980"
+    },
+    "Lena": {
+        "phones": [
+            "0979213432"
+        ],
+        "birthday": "07.04.1978"
+    },
+    "Vitalik": {
+        "phones": [
+            "0991234321"
+        ],
+        "birthday": "04.04.1988"
+    },
+    "Kolya": {
+        "phones": [
+            "4563421244"
+        ],
+        "birthday": "03.04.1988"
+    },
+    "kolya": {
+        "phones": [],
+        "birthday": "05.04.1988"
+    },
+    "Alexander": {
+        "phones": [],
+        "birthday": null
+    },
+    "Bogoyavlensky": {
+        "phones": [
+            "2345678866"
+        ],
+        "birthday": null
+    }
+}
